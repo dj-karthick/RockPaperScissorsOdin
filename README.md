@@ -20,7 +20,7 @@ The odin-rock-paper-scissors is an interactive web application that allows users
 
 To try out the odin-rock-paper-scissors application, follow these steps:
 
-1. Visit the [Live Demo](https://dj-karthick.github.io/RockPaperScissorsOdin-/)to play directly in your browser.
+1. Visit the [Live Demo](https://dj-karthick.github.io/RockPaperScissorsOdin/)to play directly in your browser.
 
 2. Alternatively, you can clone this repository and open the `index.html` file in your web browser.
 
